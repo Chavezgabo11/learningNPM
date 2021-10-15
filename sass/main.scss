@@ -1,1 +1,7 @@
-body {color: white;}
+//import all of your partials first
+// order is important!
+@import "modules/reset";
+@import "modules/vars";
+@import "modules/queries";
+
+@import "modules/defaults";

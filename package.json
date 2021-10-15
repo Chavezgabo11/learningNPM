@@ -1,7 +1,7 @@
 {
   "name": "learninggulp",
   "version": "1.0.0",
-  "description": "learning hoe to use gulp",
+  "description": "learning how to use gulp",
   "main": "index.js",
   "type": "module",
   "scripts": {
